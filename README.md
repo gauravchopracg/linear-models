@@ -14,3 +14,7 @@
   - mean encoding of time series, categorical data
 7. Advanced feature generation
 8. Hyperparameter optimization
+-------------------------------
+Books:
+http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf
+http://www.deeplearningbook.org/
